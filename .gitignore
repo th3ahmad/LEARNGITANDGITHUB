@@ -1,0 +1,5 @@
+*.js
+media/
+.env
+static\js
+static/js
